@@ -1,5 +1,11 @@
 # Boolminot
 
+[![Gem Version](https://badge.fury.io/rb/boolminot.svg)](https://badge.fury.io/rb/boolminot)
+[![Build Status](https://travis-ci.org/eugeniobruno/boolminot.svg?branch=master)](https://travis-ci.org/eugeniobruno/boolminot)
+[![Coverage Status](https://coveralls.io/repos/github/eugeniobruno/boolminot/badge.svg?branch=master)](https://coveralls.io/github/eugeniobruno/boolminot?branch=master)
+[![Code Climate](https://codeclimate.com/github/eugeniobruno/boolminot.svg)](https://codeclimate.com/github/eugeniobruno/boolminot)
+[![Dependency Status](https://gemnasium.com/eugeniobruno/boolminot.svg)](https://gemnasium.com/eugeniobruno/boolminot)
+
 Boolminot provides composable models of [Elasticsearch](https://www.elastic.co/products/elasticsearch) clauses, built on top of the [Logica](https://github.com/eugeniobruno/logica) predicate framework.
 
 ## Installation
